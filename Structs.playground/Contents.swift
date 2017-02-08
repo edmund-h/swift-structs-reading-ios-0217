@@ -85,7 +85,7 @@ class Mug_ {
     var amountOfCoffee: Double = 0.0
 }
 
-func fillMug_(mug: Mug_) {
+func fillMug_(_ mug: Mug_) {
     mug.amountOfCoffee = 10.0
 }
 
